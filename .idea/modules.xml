@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mvc-tutorial.iml" filepath="$PROJECT_DIR$/.idea/mvc-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvcsample.iml" filepath="$PROJECT_DIR$/.idea/modules/mvcsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvcsample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/mvcsample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvcsample.test.iml" filepath="$PROJECT_DIR$/.idea/modules/mvcsample.test.iml" />
     </modules>
   </component>
 </project>
